@@ -1,0 +1,5 @@
+1;1;Maria;
+2;1;Carlos;
+3;2;Ana;
+4;3;Bia;
+5;1;Joao;

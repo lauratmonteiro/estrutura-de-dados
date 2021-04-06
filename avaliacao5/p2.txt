@@ -1,0 +1,7 @@
+6;Jonas;
+7;Vanessa;
+10;Marcela;
+18;Bruna;
+46;Larissa;
+48;Tatiana;
+56;Catarina;
